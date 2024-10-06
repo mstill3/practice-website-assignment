@@ -1,0 +1,14 @@
+h1 {
+  color: orange;
+}
+
+.btn {
+  background-color: cornflowerblue;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+}
+
+#special-text {
+  color: pink;
+}
